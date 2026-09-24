@@ -1,12 +1,7 @@
-
-// Code for the given question ;
-
 #include <iostream>
 #include <cmath>
-using namespace std;
-
 const int CAPACITY = 20;
-
+using namespace std;
 struct ArrayList
 {
     int data[CAPACITY];
